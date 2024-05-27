@@ -1,5 +1,3 @@
-Sure! Here is the README file in English:
-
 ---
 
 # Download YouTube Video
